@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1029810038809-s8kass82a2fhb7kcics7dpuir25qsmc9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1029810038809-s8kass82a2fhb7kcics7dpuir25qsmc9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCI_yLg_APC8cLx52zOqtxuE-1zsxfvBbM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1029810038809</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.swift.GAPractice</string>
+	<key>PROJECT_ID</key>
+	<string>gapractice-1f8b7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gapractice-1f8b7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1029810038809:ios:0e2137517df1bab13de288</string>
+	<key>DATABASE_URL</key>
+	<string>https://gapractice-1f8b7.firebaseio.com</string>
+</dict>
+</plist>
